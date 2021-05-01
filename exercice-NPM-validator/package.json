@@ -1,14 +1,15 @@
 {
   "name": "exercice-npm-validator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Eric Gagné",
+  "author": "Serge Guérin",
   "license": "ISC",
   "dependencies": {
-    "validator": "^13.5.2"
-  }
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
